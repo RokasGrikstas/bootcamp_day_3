@@ -4,7 +4,7 @@ public class KaipIskviestiKlase {
 
     public void a (String b);
 
-
+komentaras
 
 
 }
